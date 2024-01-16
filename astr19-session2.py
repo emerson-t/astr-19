@@ -14,8 +14,8 @@ x = 15.7    #define integer x equal to 15.7
 y = 8.3     #define integer y equal to 8.3
 
 #integers
-a = 13       #declare integer a equal to 4
-b = 7      #declare integer b equal to 10
+a = 13       #declare integer a equal to 13
+b = 7      #declare integer b equal to 7
 
 #arithmetic operators
 
