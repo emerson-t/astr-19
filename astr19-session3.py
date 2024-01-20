@@ -1,6 +1,3 @@
-import numpy as np       #import numpy with alias
-
-
 def f(x):                #define f(x)
     return x**3 + 8      #returns the function
 
